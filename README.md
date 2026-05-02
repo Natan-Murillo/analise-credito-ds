@@ -1,5 +1,4 @@
 # analise-credito-ds
-Análise exploratória das variáveis financeiras do dataset Default of Credit Card Clients. Estatísticas descritivas, histogramas e transformação logarítmica com Python, Pandas, NumPy e Matplotlib.
 # 📊 Explorando as Características Financeiras do Dataset de Crédito
 
 Análise exploratória das variáveis financeiras do dataset **Default of Credit Card Clients**, realizada como atividade prática da disciplina de Ciência de Dados.
